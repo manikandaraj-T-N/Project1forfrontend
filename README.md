@@ -47,11 +47,10 @@ Provide any relevant links to your project, such as a live demo or hosted versio
 
 To use this project, simply clone the repository and open the `index.html` file in your web browser. Customize the content and styles as needed to fit your requirements.
 
-
-## Author
-
-Provide information about yourself or your team. Include links to your social media profiles or personal website, if desired.
-
 ## Acknowledgments
 
 - [Bootstrap](https://getbootstrap.com/) - Used for styling the project's components and layout.
+
+  ## 🔗 Link for contact:-
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
