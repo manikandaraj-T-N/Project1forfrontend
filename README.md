@@ -54,4 +54,4 @@ Provide information about yourself or your team. Include links to your social me
 
 ## Acknowledgments
 
-Give credit to anyone whose code, libraries, or inspiration you used in your project.
+- [Bootstrap](https://getbootstrap.com/) - Used for styling the project's components and layout.
