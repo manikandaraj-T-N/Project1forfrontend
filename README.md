@@ -54,4 +54,4 @@ Provide information about yourself or your team. Include links to your social me
 
 ## Acknowledgments
 
-- [Bootstrap](https://getbootstrap.com/){:target="_blank"} - Used for styling the project's components and layout.
+- [Bootstrap](https://getbootstrap.com/) - Used for styling the project's components and layout.
