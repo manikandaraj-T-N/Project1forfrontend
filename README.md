@@ -13,7 +13,7 @@
 
 ## Overview
 
-Describe your project here. Provide a brief summary of what it does and its main features.
+This Project is shows that how to use HTML , CSS and Bootstrap to bulid a website. For beginners, this project will be very useful to gain some knowledge.
 
 ### Screenshot
 
