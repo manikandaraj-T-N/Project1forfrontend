@@ -35,13 +35,18 @@ Provide any relevant links to your project, such as a live demo or hosted versio
 - **Latest Post:** Highlights the latest blog posts or news updates.
 - **Client Images:** Displays images or logos of clients or customers.
 - **Footer:** Includes contact information, social media links, and other relevant details.
+  
 ## Built With
 
-List the technologies or frameworks you used to build your project.
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 
 
 ## Usage
 
-Explain how to set up and use your project, if applicable.
+To use this project, simply clone the repository and open the `index.html` file in your web browser. Customize the content and styles as needed to fit your requirements.
+
 
 ## Author
 
