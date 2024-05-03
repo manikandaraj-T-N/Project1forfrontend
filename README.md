@@ -21,8 +21,7 @@ This project is a website template designed for learning purpose. It features a 
 
 ### Links
 
-Provide any relevant links to your project, such as a live demo or hosted version.
-
+[Home Business](https://project1forfrontend-manikandaraj-t-ns-projects.vercel.app/)
 ## Features
 
 - **Navbar:** A navigation bar for easy navigation throughout the website.
